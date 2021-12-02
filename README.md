@@ -2,7 +2,7 @@
 CUDA enabled docker environment for running Keras/TF models
 Only requirement (outside of the Docker environment) is the NVIDIA container runtime
 
-# Bilding:
+# Building:
 cd into main directory and run:
 docker build -t <tag_name> .
 
